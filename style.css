@@ -1,0 +1,14 @@
+#ahorcado {
+    height: 310;
+    width: 310;
+    background-image: url('/img/img1.png');
+    position: static;
+    align-content: center;
+}
+
+body{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkslategray;
+}
